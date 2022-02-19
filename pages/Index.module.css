@@ -1,0 +1,11 @@
+.itemwrapper{
+    width: 80%;
+    height: 10vh;
+    background-color: red;
+    position: relative;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    cursor: pointer;  
+}
